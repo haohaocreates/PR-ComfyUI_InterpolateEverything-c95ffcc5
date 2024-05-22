@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_interpolateeverything"
+description = "Nodes: Interpolate Poses, Interpolate Lineart, ... Custom nodes for interpolating between, well, everything in the Stable Diffusion ComfyUI."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/shockz0rz/ComfyUI_InterpolateEverything"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_InterpolateEverything"
+Icon = ""
